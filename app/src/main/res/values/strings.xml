@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC4.0 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="name">Rasekhula Phutiane Michael</string>
+    <string name="my_image">My Image</string>
+    <string name="track">Track :</string>
+    <string name="android">Android</string>
+    <string name="country">Country :</string>
+    <string name="south_africa">South Africa</string>
+    <string name="email">Email :</string>
+    <string name="michael_rasekhula4_gmail_com">michael.rasekhula4@gmail.com</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="slack_username">Slack Username :</string>
+    <string name="_27_61_456_4124">+27 61 456 4124</string>
+    <string name="phutiane">Phutiane</string>
+    <string name="my_profile">My Profile</string>
+</resources>
